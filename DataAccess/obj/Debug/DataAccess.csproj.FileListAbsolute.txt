@@ -1,0 +1,11 @@
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\bin\Debug\EmployeesModel.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\bin\Debug\EmployeesModel.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\DataAccess\obj\Debug\DataAccess.pdb

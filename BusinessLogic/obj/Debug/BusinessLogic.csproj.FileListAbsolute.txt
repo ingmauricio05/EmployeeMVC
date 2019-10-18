@@ -1,0 +1,13 @@
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\EmployeesModel.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\EmployeesModel.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\BusinessLogic\obj\Debug\BusinessLogic.pdb

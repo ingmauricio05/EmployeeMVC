@@ -1,0 +1,8 @@
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\bin\Debug\EmployeesModel.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\bin\Debug\EmployeesModel.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\obj\Debug\EmployeesModel.csproj.CoreCompileInputs.cache
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\obj\Debug\EmployeesModel.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\obj\Debug\EmployeesModel.pdb
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\obj\Debug\EmployeesModel.csproj.CopyComplete
+C:\Users\mgallegog\Desktop\Pruebas concepto\Employees\EmployeesMVC\EmployeesModel\bin\Debug\Newtonsoft.Json.xml
